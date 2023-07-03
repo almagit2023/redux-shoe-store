@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "shoe_Id": 1,
+      "shoe_name": "Nike Air Zoom Pegasus 34",
+      "shoe_description": "The Nike Air Zoom Pegasus 34 is a reliable running shoe with a responsive system that looks soothing",
+      "shoe_company": "Nike",
+      "shoe_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "shoe_price": 120.0,
+      "shoe_color": "black",
+      "availability": true
+    },
+    {
+      "shoe_Id": 2,
+      "shoe_name": "Adidas UltraBoost",
+      "shoe_description": "The Adidas UltraBoost is a popular running shoe with a responsive cushioning system and a flexible, adaptive fit.",
+      "shoe_company": "Adidas",
+      "shoe_image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1121&q=80",
+      "shoe_price": 160.0,
+      "shoe_color": "white",
+      "availability": false
+    },
+    {
+      "shoe_Id": 3,
+      "shoe_name": "New Balance 990",
+      "shoe_description": "The New Balance 990 is a classic running shoe with a durable build and a comfortable, supportive fit.",
+      "shoe_company": "Balance",
+      "shoe_image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+      "shoe_price": 180.0,
+      "shoe_color": "gray",
+      "availability": true
+    },
+    {
+      "shoe_Id": 4,
+      "shoe_name": "Court Sneakers",
+      "shoe_description": "The timeless court sneakers feature heritage-inspired detailing, adequate midsole cushioning, and premium upper styles that looks awesome",
+      "shoe_company": "Sketchers",
+      "shoe_image": "https://images.unsplash.com/photo-1617606002806-94e279c22567?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "shoe_price": 110.0,
+      "shoe_color": "white",
+      "availability": true
+    },
+    {
+      "shoe_Id": 5,
+      "shoe_name": "Nike Dunk Low Miami Hurricanes",
+      "shoe_description": "The Nike Dunk Low Miami Hurricanes is a colourway of the classic sneaker that is used in the Miami Hurricanes college basketball team. This shoe is one of a kind !!",
+      "shoe_company": "Nike",
+      "shoe_image": "https://images.unsplash.com/photo-1626947346165-4c2288dadc2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNob2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "shoe_price": 90.0,
+      "shoe_color": "green",
+      "availability": false
+    },
+    {
+      "shoe_Id": 6,
+      "shoe_name": "bronax-men--sneakers",
+      "shoe_description": "ecommend ordering usual shoe size, Half size up for Customer's with very wide feet,12-18-2018 Updated size guide based on customer's comments.",
+      "shoe_company": "Bronax",
+      "shoe_image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1131&q=80",
+      "shoe_price": 30.0,
+      "shoe_color": "red",
+      "availability": true
+    }
+  ]
+}

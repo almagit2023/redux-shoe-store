@@ -1,0 +1,12 @@
+.contactPageStyle {
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+  min-height: 70rem;
+}
+
+.contactForm{
+  position: absolute;
+  transform: rotate(-50%,-50%);
+  left: 40%;
+}
